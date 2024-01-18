@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:habit_tracker/produck/constants/color_constants.dart';
+import 'package:habit_tracker/product/constants/color_constants.dart';
 
 class HabitContainer extends StatelessWidget {
   const HabitContainer(

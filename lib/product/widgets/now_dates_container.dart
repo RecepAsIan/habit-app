@@ -1,9 +1,9 @@
 import 'package:cloud_firestore/cloud_firestore.dart';
 import 'package:firebase_auth/firebase_auth.dart';
 import 'package:flutter/material.dart';
-import 'package:habit_tracker/feautre/page/current_time_page.dart';
-import 'package:habit_tracker/produck/constants/color_constants.dart';
-import 'package:habit_tracker/produck/widgets/date_container_text.dart';
+import 'package:habit_tracker/feautre/page/current_time_screen/current_time_page.dart';
+import 'package:habit_tracker/product/constants/color_constants.dart';
+import 'package:habit_tracker/product/widgets/date_container_text.dart';
 
 class NowDateContainer extends StatelessWidget {
   const NowDateContainer({super.key});

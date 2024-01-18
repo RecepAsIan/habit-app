@@ -1,10 +1,10 @@
 import 'package:flutter/material.dart';
 import 'package:flutter_riverpod/flutter_riverpod.dart';
-import 'package:habit_tracker/feautre/provider/habit_provider.dart';
-import 'package:habit_tracker/produck/constants/assests_string.dart';
-import 'package:habit_tracker/produck/constants/color_constants.dart';
-import 'package:habit_tracker/produck/constants/habit_string.dart';
-import 'package:habit_tracker/produck/widgets/habit_add_container.dart';
+import 'package:habit_tracker/feautre/page/habit_screen/habit_provider.dart';
+import 'package:habit_tracker/product/constants/assests_string.dart';
+import 'package:habit_tracker/product/constants/color_constants.dart';
+import 'package:habit_tracker/product/constants/habit_string.dart';
+import 'package:habit_tracker/product/widgets/habit_add_container.dart';
 
 final _habitProvider =
     StateNotifierProvider<HabitNotifier, HabitContainerModel>((ref) {

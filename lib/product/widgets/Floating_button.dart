@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
-import 'package:habit_tracker/produck/constants/color_constants.dart';
-import 'package:habit_tracker/feautre/page/habit_page.dart';
+import 'package:habit_tracker/product/constants/color_constants.dart';
+import 'package:habit_tracker/feautre/page/habit_screen/habit_page.dart';
 
 class FloatingButton extends StatelessWidget {
   const FloatingButton({

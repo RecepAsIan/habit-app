@@ -1,7 +1,7 @@
 import 'package:firebase_auth/firebase_auth.dart';
 import 'package:flutter/material.dart';
-import 'package:habit_tracker/produck/widgets/my_button.dart';
-import 'package:habit_tracker/produck/widgets/my_text_field.dart';
+import 'package:habit_tracker/product/widgets/my_button.dart';
+import 'package:habit_tracker/product/widgets/my_text_field.dart';
 
 class RegistarPage extends StatefulWidget {
   final void Function()? onPressed;

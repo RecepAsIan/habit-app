@@ -1,7 +1,7 @@
 import 'package:firebase_auth/firebase_auth.dart';
 import 'package:flutter/material.dart';
-import 'package:habit_tracker/produck/constants/color_constants.dart';
-import 'package:habit_tracker/produck/widgets/dates_list_view.dart';
+import 'package:habit_tracker/product/constants/color_constants.dart';
+import 'package:habit_tracker/product/widgets/dates_list_view.dart';
 
 class HomePage extends StatefulWidget {
   const HomePage({super.key});

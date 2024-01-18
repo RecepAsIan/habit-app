@@ -7,7 +7,7 @@ class ColorConstants {
   static const Color mineShaft = Color(0xff323232);
   //dates container text color and dates page text color
   static const Color white = Color(0xffFFFFFF);
-  // app background color
+  /// app background color
   static const Color codGray = Color(0xff171717);
   //dates page string
   static const Color boulder = Color(0xff7a7a7a);

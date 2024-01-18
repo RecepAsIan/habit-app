@@ -1,9 +1,9 @@
 import 'package:flutter/material.dart';
-import 'package:habit_tracker/produck/constants/color_constants.dart';
-import 'package:habit_tracker/produck/widgets/Floating_button.dart';
-import 'package:habit_tracker/produck/widgets/dates_list_view.dart';
-import 'package:habit_tracker/produck/widgets/habit_container.dart';
-import 'package:habit_tracker/produck/widgets/text_dates_page.dart';
+import 'package:habit_tracker/product/constants/color_constants.dart';
+import 'package:habit_tracker/product/widgets/Floating_button.dart';
+import 'package:habit_tracker/product/widgets/dates_list_view.dart';
+import 'package:habit_tracker/product/widgets/habit_container.dart';
+import 'package:habit_tracker/product/widgets/text_dates_page.dart';
 
 class DatesPage extends StatefulWidget {
   final String docId;
@@ -72,5 +72,3 @@ class _DatesPageState extends State<DatesPage> {
     );
   }
 }
-
-
